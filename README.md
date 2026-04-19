@@ -3,5 +3,5 @@ a repository of sample python project
 .. Technologies Used 
 this repository leverages the technologies of Jupiter Lab, Scikitlearn, Tensorflow, and Visual Studio Code . 
 .. Installation Instruction 
-Fock and Close this repository onto your system
+Fork and Close this repository onto your system
 ... Happy Coding!
